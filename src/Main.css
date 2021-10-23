@@ -1,0 +1,32 @@
+main {
+    font-family: "Helvetica Neue";
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.welcoming-img {
+    width: 500px;
+}
+
+.intro-img {
+    width: 200px;
+    padding-left: 15px;
+    float: left;
+}
+.welcoming {
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+}
+
+hr {
+    width: 500px;
+}
+
+.text {
+    display:block;
+}
